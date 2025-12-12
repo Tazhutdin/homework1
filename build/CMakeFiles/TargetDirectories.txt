@@ -1,0 +1,3 @@
+C:/Users/Тажутдин/library_project1/build/CMakeFiles/library.dir
+C:/Users/Тажутдин/library_project1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Тажутдин/library_project1/build/CMakeFiles/ZERO_CHECK.dir

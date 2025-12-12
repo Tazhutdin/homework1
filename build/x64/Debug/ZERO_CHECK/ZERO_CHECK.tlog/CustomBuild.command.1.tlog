@@ -1,0 +1,10 @@
+^C:\USERS\ТАЖУТДИН\LIBRARY_PROJECT1\BUILD\CMAKEFILES\3E6627838BCC769BB29C1A2C9C4F5F1F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Тажутдин/library_project1 -BC:/Users/Тажутдин/library_project1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Тажутдин/library_project1/build/LibraryManagement.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
