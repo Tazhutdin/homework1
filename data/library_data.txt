@@ -1,0 +1,37 @@
+BOOK
+Title: War and Peace
+Author: Leo Tolstoy
+Year: 1869
+ISBN: 978-5-17-70490-8
+Available: yes
+BorrowedBy: 
+
+BOOK
+Title: Crime and Punishment
+Author: Fyodor Dostoevsky
+Year: 1866
+ISBN: 978-5-17-77192-5
+Available: no
+BorrowedBy: Ivanov
+
+BOOK
+Title: C++ Primer
+Author: Stanley Lippman
+Year: 2012
+ISBN: 978-0-13-110388-8
+Available: yes
+BorrowedBy: 
+
+---USERS---
+
+USER
+Name: Ivanov
+UserID: USR_001
+BorrowedBooks: 978-5-17-77192-5
+MaxBooks: 3
+
+USER
+Name: Petrov
+UserID: USR_002
+BorrowedBooks: 
+MaxBooks: 3
